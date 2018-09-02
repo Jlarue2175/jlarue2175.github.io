@@ -2,11 +2,11 @@
   
 <html>
   <style>
-    .main {
-    background: linear-gradient(35deg, #CCFFFF, #FFCCCC)
+    .body {
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
   }
   </style>
-<main>
+<body>
 <a href="#Page-top"> To the top </a> 
 
   <h1> Hello! </h1>
@@ -48,7 +48,7 @@
 <h2> id="Page-Top"> To the top </h2>
 
 
-</main>
+</body>
 
 <header>
 </html>
