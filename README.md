@@ -1,6 +1,11 @@
 <!DOCTYPE html>
   
 <html>
+  <style>
+    .main {
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC)
+  }
+  </style>
 <main>
 <a href="#Page-top"> To the top </a> 
 
